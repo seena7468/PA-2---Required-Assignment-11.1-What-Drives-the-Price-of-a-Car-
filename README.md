@@ -28,6 +28,7 @@ Brand and Manufacturer Reputation: Luxury and high-performance brands like Ferra
 
 
 ### Data:
+Dataset from Kaggle. The original dataset contained information on 3 million used cars. The provided dataset contains information on 426K cars to ensure the speed of processing.
 The data is in a structured, tabular format. The dataset contains 426,880 individual records (rows), each representing a used car listing. There are 18 attributes (columns) for each record.
 
 #### Identities of the Fields
