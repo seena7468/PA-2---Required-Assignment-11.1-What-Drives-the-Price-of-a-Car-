@@ -33,24 +33,24 @@ The data is in a structured, tabular format. The dataset contains 426,880 indivi
 #### Identities of the Fields
 The dataset contains the following 18 fields and their respective data types:
 
-. id (int64): A unique numerical identifier for each listing.
-. region (object): The geographical region of the listing.
-. price (int64): The listed price of the vehicle in USD.
-year (float64): The model year of the vehicle.
-manufacturer (object): The make or brand of the vehicle (e.g., Ford, Toyota).
-model (object): The specific model of the vehicle (e.g., F-150, Camry).
-condition (object): The described condition of the vehicle (e.g., good, excellent).
-cylinders (object): The engine cylinder configuration.
-fuel (object): The fuel type (e.g., gas, diesel).
-odometer (float64): The mileage reading of the vehicle.
-title_status (object): The status of the vehicle's title (e.g., clean, salvage).
-transmission (object): The type of transmission (e.g., automatic, manual).
-VIN (object): The vehicle identification number.
-drive (object): The drivetrain (e.g., 4wd, fwd).
-size (object): The size classification of the vehicle.
-type (object): The body type of the vehicle (e.g., sedan, truck, SUV).
-paint_color (object): The exterior color of the vehicle.
-state (object): The U.S. state where the vehicle is listed.
+1. id (int64): A unique numerical identifier for each listing.
+2. region (object): The geographical region of the listing.
+3. price (int64): The listed price of the vehicle in USD.
+4. year (float64): The model year of the vehicle.
+5. manufacturer (object): The make or brand of the vehicle (e.g., Ford, Toyota).
+6.model (object): The specific model of the vehicle (e.g., F-150, Camry).
+7. condition (object): The described condition of the vehicle (e.g., good, excellent).
+8. cylinders (object): The engine cylinder configuration.
+9.fuel (object): The fuel type (e.g., gas, diesel).
+10. odometer (float64): The mileage reading of the vehicle.
+11. title_status (object): The status of the vehicle's title (e.g., clean, salvage).
+12. transmission (object): The type of transmission (e.g., automatic, manual).
+13. VIN (object): The vehicle identification number.
+14. drive (object): The drivetrain (e.g., 4wd, fwd).
+15. size (object): The size classification of the vehicle.
+16. type (object): The body type of the vehicle (e.g., sedan, truck, SUV).
+17. paint_color (object): The exterior color of the vehicle.
+18. state (object): The U.S. state where the vehicle is listed.
 
 
 
