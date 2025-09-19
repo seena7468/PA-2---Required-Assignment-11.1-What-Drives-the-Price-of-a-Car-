@@ -10,13 +10,13 @@ Our goal is to understand the key factors that influence the price of used cars 
 
 From a business perspective, these results showcase that the features listed below have the most impact on how much a buyer will spend on a used vehicle:
 
-1. Vehicle Age and Mileage: Older vehicles and cars with higher odometer readings consistently sell for less. Buyers prioritize newer, low-mileage cars.
+1. ***Vehicle Age and Mileage:*** Older vehicles and cars with higher odometer readings consistently sell for less. Buyers prioritize newer, low-mileage cars.
 Brand and Manufacturer Reputation: Luxury and high-performance brands like Ferrari, Porsche, Tesla, and Aston Martin significantly increase perceived value, while lower-end brands tend to decrease it.
-2. Vehicle Condition: Cars in excellent or like-new condition command higher prices, while fair, salvage, or rebuilt vehicles have diminished value.
-3. Fuel Type and Engine Size: Diesel vehicles and cars with higher cylinder counts are valued more, whereas some electric and small-engine vehicles are less influential in price.
-4. Vehicle Type: Convertibles, pickups, and SUVs generally have a higher market value than buses, hatchbacks, or wagons.
-5. Title Status: Clean titles or lien-free vehicles increase buyer confidence and price potential; salvage or parts-only titles reduce it.
-6. Regional Differences: Certain states (e.g., Utah, Montana, Washington) show higher valuation trends, suggesting regional demand patterns matter.
+2. ***Vehicle Condition:*** Cars in excellent or like-new condition command higher prices, while fair, salvage, or rebuilt vehicles have diminished value.
+3. ***Fuel Type and Engine Size:*** Diesel vehicles and cars with higher cylinder counts are valued more, whereas some electric and small-engine vehicles are less influential in price.
+4. ***Vehicle Type:*** Convertibles, pickups, and SUVs generally have a higher market value than buses, hatchbacks, or wagons.
+5. ***Title Status:*** Clean titles or lien-free vehicles increase buyer confidence and price potential; salvage or parts-only titles reduce it.
+6. ***Regional Differences:*** Certain states (e.g., Utah, Montana, Washington) show higher valuation trends, suggesting regional demand patterns matter.
 
 **Actionable Recommendations for the Dealership:**
 
