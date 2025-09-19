@@ -20,11 +20,11 @@ Brand and Manufacturer Reputation: Luxury and high-performance brands like Ferra
 
 **Actionable Recommendations for the Dealership:**
 
-1. Pricing Strategy: Use the Decision Tree and feature importance insights to develop a dynamic pricing model that considers age, mileage, brand, condition, and type. This ensures market-competitive, value-aligned pricing.
-2.Inventory Management: Focus acquisition efforts on newer, low-mileage vehicles from high-demand brands. Refurbish vehicles with slightly lower condition scores to improve sale price. Consider geographic preferences when sourcing inventory.
-3. Marketing and Sales: Highlight high-impact attributes — such as low mileage, clean title, fuel efficiency, or luxury brand — in online listings, showroom displays, and promotional materials. Tailor messaging based on vehicle type and regional demand trends.
-4. Value-Adding Services: Offer minor maintenance, detailing, or feature upgrades to enhance perceived value. Even small improvements in condition or aesthetics can justify higher prices and attract more buyers.
-5. Data-Driven Decision Making: Continuously track sales performance relative to feature importance to refine inventory acquisition, pricing, and marketing strategies over time. This allows the dealership to adapt to evolving consumer preferences.
+1. ***Pricing Strategy:*** Use the Decision Tree and feature importance insights to develop a dynamic pricing model that considers age, mileage, brand, condition, and type. This ensures market-competitive, value-aligned pricing.
+2.***Inventory Management:*** Focus acquisition efforts on newer, low-mileage vehicles from high-demand brands. Refurbish vehicles with slightly lower condition scores to improve sale price. Consider geographic preferences when sourcing inventory.
+3. ***Marketing and Sales:*** Highlight high-impact attributes — such as low mileage, clean title, fuel efficiency, or luxury brand — in online listings, showroom displays, and promotional materials. Tailor messaging based on vehicle type and regional demand trends.
+4. ***Value-Adding Services:*** Offer minor maintenance, detailing, or feature upgrades to enhance perceived value. Even small improvements in condition or aesthetics can justify higher prices and attract more buyers.
+5. ***Data-Driven Decision Making:*** Continuously track sales performance relative to feature importance to refine inventory acquisition, pricing, and marketing strategies over time. This allows the dealership to adapt to evolving consumer preferences.
 
 
 ### Data:
