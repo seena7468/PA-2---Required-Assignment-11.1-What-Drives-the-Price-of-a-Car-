@@ -6,7 +6,25 @@ Jupyter NoteBook link -
 Our goal is to understand the key factors that influence the price of used cars in your inventory. Using a dataset of vehicle listings, we have applied data cleaning, feature engineering, and statistical modeling to identify which attributes—such as age, mileage, condition, and brand—drive value.
 
 ### Findings:
+**Evaluation of Results and Business Implications**
 
+From a business perspective, these results showcase that the features listed below have the most impact on how much a buyer will spend on a used vehicle:
+
+1. Vehicle Age and Mileage: Older vehicles and cars with higher odometer readings consistently sell for less. Buyers prioritize newer, low-mileage cars.
+Brand and Manufacturer Reputation: Luxury and high-performance brands like Ferrari, Porsche, Tesla, and Aston Martin significantly increase perceived value, while lower-end brands tend to decrease it.
+2. Vehicle Condition: Cars in excellent or like-new condition command higher prices, while fair, salvage, or rebuilt vehicles have diminished value.
+3. Fuel Type and Engine Size: Diesel vehicles and cars with higher cylinder counts are valued more, whereas some electric and small-engine vehicles are less influential in price.
+4. Vehicle Type: Convertibles, pickups, and SUVs generally have a higher market value than buses, hatchbacks, or wagons.
+5. Title Status: Clean titles or lien-free vehicles increase buyer confidence and price potential; salvage or parts-only titles reduce it.
+6. Regional Differences: Certain states (e.g., Utah, Montana, Washington) show higher valuation trends, suggesting regional demand patterns matter.
+
+**Actionable Recommendations for the Dealership:**
+
+1. Pricing Strategy: Use the Decision Tree and feature importance insights to develop a dynamic pricing model that considers age, mileage, brand, condition, and type. This ensures market-competitive, value-aligned pricing.
+2.Inventory Management: Focus acquisition efforts on newer, low-mileage vehicles from high-demand brands. Refurbish vehicles with slightly lower condition scores to improve sale price. Consider geographic preferences when sourcing inventory.
+3. Marketing and Sales: Highlight high-impact attributes — such as low mileage, clean title, fuel efficiency, or luxury brand — in online listings, showroom displays, and promotional materials. Tailor messaging based on vehicle type and regional demand trends.
+4. Value-Adding Services: Offer minor maintenance, detailing, or feature upgrades to enhance perceived value. Even small improvements in condition or aesthetics can justify higher prices and attract more buyers.
+5. Data-Driven Decision Making: Continuously track sales performance relative to feature importance to refine inventory acquisition, pricing, and marketing strategies over time. This allows the dealership to adapt to evolving consumer preferences.
 
 
 ### Data:
