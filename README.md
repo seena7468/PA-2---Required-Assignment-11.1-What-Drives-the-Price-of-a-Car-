@@ -1,6 +1,6 @@
 # What Drives the Price of a Car?
 
-Jupyter NoteBook link - 
+Jupyter NoteBook link - https://github.com/seena7468/Practical-Application-2-Required-Assignment-11.1/blob/main/Required_Assignment_11_1.ipynb
 
 ### Problem statement:
 Our goal is to understand the key factors that influence the price of used cars in your inventory. Using a dataset of vehicle listings, we have applied data cleaning, feature engineering, and statistical modeling to identify which attributes—such as age, mileage, condition, and brand—drive value.
